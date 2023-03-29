@@ -1,0 +1,25 @@
+.container{
+    background-color: rgb(184, 188, 188);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+.faqs{
+    width: 50rem;
+    max-width: 100%;
+    background-color: aliceblue;
+    border-radius: 0.6rem;
+    padding: 1rem;
+}
+
+.h1{
+    text-align: center;
+    background-color: rgb(85, 85, 85);
+    color: #fff;
+    border-radius: 0.6rem;
+    padding: 5px 0;
+    font-size: 30px;
+}
+
